@@ -1,0 +1,11 @@
+F:\MentorMate\NBA\NBA\bin\Debug\netcoreapp2.2\NBA.deps.json
+F:\MentorMate\NBA\NBA\bin\Debug\netcoreapp2.2\NBA.runtimeconfig.json
+F:\MentorMate\NBA\NBA\bin\Debug\netcoreapp2.2\NBA.runtimeconfig.dev.json
+F:\MentorMate\NBA\NBA\bin\Debug\netcoreapp2.2\NBA.dll
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.csprojAssemblyReference.cache
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.csproj.CoreCompileInputs.cache
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.AssemblyInfoInputs.cache
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.AssemblyInfo.cs
+F:\MentorMate\NBA\NBA\bin\Debug\netcoreapp2.2\NBA.pdb
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.dll
+F:\MentorMate\NBA\NBA\obj\Debug\netcoreapp2.2\NBA.pdb
